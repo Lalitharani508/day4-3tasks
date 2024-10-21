@@ -1,0 +1,19 @@
+.css2{
+    display: flex;
+    flex-direction: row;
+    background-color: #254336;
+    color: white;
+    font-family:sans-serif;
+    padding:10px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    
+}
+.a{
+    background-color: greenyellow;
+    padding: 15px;
+}
+.k{
+    padding-right: 200px;
+}
